@@ -5,3 +5,12 @@ IMPORTANT: This code will permanently delete the entire folder containing the zi
 WARNING: This zip file contains a self-deleting program. Opening the zip file will automatically extract its contents and delete the entire folder after 120 seconds.
 Proceed only if you understand the risks and have backed up any essential data.
 This script will delete all files in a directory, including subdirectories. It does not ask for confirmation before proceeding with deletion.
+
+It is currently in its inactive form, to activate it follow the steps below
+-Open a terminal or command prompt.
+-Navigate to the directory containing the self_deleting_zip.spec file.
+-Execute the PyInstaller command as shown above.
+-PyInstaller will process the .spec file and generate the executable file (usually named self_deleting_zip.exe).
+-Locate the generated executable in the dist directory.
+
+Once you have the executable, place it inside the zip file along with the other files.
