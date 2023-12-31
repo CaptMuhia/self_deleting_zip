@@ -1,0 +1,7 @@
+**WARNING**
+
+IMPORTANT: This code will permanently delete the entire folder containing the zip file and its extracted contents after 120 seconds. Exercise extreme caution when using it.
+
+WARNING: This zip file contains a self-deleting program. Opening the zip file will automatically extract its contents and delete the entire folder after 120 seconds.
+Proceed only if you understand the risks and have backed up any essential data.
+This script will delete all files in a directory, including subdirectories. It does not ask for confirmation before proceeding with deletion.
